@@ -173,7 +173,7 @@ body
     width: 15%;
     display: flex;
     justify-content: center;
-    margin: 0 4%;
+    margin: 0 8%;
     place-items: start;
 }
 .hImage img
