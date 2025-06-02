@@ -96,6 +96,7 @@ body
     overflow: hidden;
     margin-left: 8%;
     overflow-y: scroll;
+    scrollbar-width: none;
 }
 .notch
 {
