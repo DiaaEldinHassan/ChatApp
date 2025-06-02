@@ -421,7 +421,7 @@ font-size: .4rem;
         padding: 30% 0;
         min-height: fit-content;
         max-height: fit-content;
-        overflow: scroll;
+        overflow-y: scroll;
     }
     .index-1
     {
