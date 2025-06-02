@@ -380,7 +380,7 @@ font-size: .4rem;
     height: 30px;
     width: 35px;
     position: absolute;
-    margin-right: 1%;
+    
     display: flex;
     justify-content: center;
     place-items: center;
@@ -416,7 +416,7 @@ font-size: .4rem;
     }
 /* ------------------------------------------------------------------ */
 /* Mobile View */
-@media screen and (max-width:375px) {
+@media screen and (max-width:450px) {
     body{
         padding: 20% 0;
         min-height: fit-content;
