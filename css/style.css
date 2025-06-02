@@ -418,9 +418,10 @@ font-size: .4rem;
 /* Mobile View */
 @media screen and (max-width:450px) {
     body{
-        padding: 20% 0;
+        padding: 30% 0;
         min-height: fit-content;
         max-height: fit-content;
+        overflow: scroll;
     }
     .index-1
     {
